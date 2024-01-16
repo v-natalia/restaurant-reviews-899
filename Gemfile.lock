@@ -108,6 +108,7 @@ GEM
     minitest (5.21.1)
     msgpack (1.5.1)
     nokogiri (1.16.0-x86_64-linux)
+    nokogiri (1.16.0-x86_64-linux)
     nio4r (2.7.0)
       racc (~> 1.4)
     public_suffix (4.0.7)
